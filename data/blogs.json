@@ -5,15 +5,15 @@
             "title": "Lorem Ipsum",
             "subTitle": "sub-Tile ipsums",
             "contentArea": "<p>Lorem paragraph ipsum. Lorem paragraph ipsum. Lorem paragraph ipsum. Lorem paragraph ipsum. Lorem paragraph ipsum.</p>",
-            "learnMore": "",
-            "img": "img//_______.png"
+            "learnMoreBtn": "",
+            "img": "img/design.png"
         },
         {
             "id": 1,
             "title": "Lorem Ipsum",
             "subTitle": "sub-Tile ipsums",
             "contentArea": "<p>Lorem paragraph ipsum. Lorem paragraph ipsum. Lorem paragraph ipsum. Lorem paragraph ipsum. Lorem paragraph ipsum.</p>",
-            "learnMore": "",
+            "learnMoreBtn": "",
             "img": "img//_______.png"
         },
         {
@@ -21,7 +21,7 @@
             "title": "Lorem Ipsum",
             "subTitle": "sub-Tile ipsums",
             "contentArea": "<p>Lorem paragraph ipsum. Lorem paragraph ipsum. Lorem paragraph ipsum. Lorem paragraph ipsum. Lorem paragraph ipsum.</p>",
-            "learnMore": "",
+            "learnMoreBtn": "",
             "img": "img//_______.png"
         }  
     ]
